@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/canyon-theme/static/css/main.d1b05096.chunk.css",
+    "main.js": "/canyon-theme/static/js/main.565f36a8.chunk.js",
+    "main.js.map": "/canyon-theme/static/js/main.565f36a8.chunk.js.map",
+    "runtime-main.js": "/canyon-theme/static/js/runtime-main.92234e36.js",
+    "runtime-main.js.map": "/canyon-theme/static/js/runtime-main.92234e36.js.map",
+    "static/js/2.3dbc2d4a.chunk.js": "/canyon-theme/static/js/2.3dbc2d4a.chunk.js",
+    "static/js/2.3dbc2d4a.chunk.js.map": "/canyon-theme/static/js/2.3dbc2d4a.chunk.js.map",
+    "index.html": "/canyon-theme/index.html",
+    "precache-manifest.648d9d5eef570bcd8bc5eecc730613e9.js": "/canyon-theme/precache-manifest.648d9d5eef570bcd8bc5eecc730613e9.js",
+    "service-worker.js": "/canyon-theme/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/canyon-theme/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3dbc2d4a.chunk.js.LICENSE.txt": "/canyon-theme/static/js/2.3dbc2d4a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/canyon-theme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92234e36.js",
+    "static/js/2.3dbc2d4a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.565f36a8.chunk.js"
+  ]
+}
