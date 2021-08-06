@@ -9,7 +9,7 @@ class Home extends Component {
     render() {
         return (
             <div className="col-home">
-            <img src={profilepic} className="profilepic"></img>
+            <img src={profilepic} alt="" className="profilepic"></img>
             <ReactTypingEffect className="typingeffect" text={['I am Zary Manning','Your next web developer!']} speed={100} eraseDelay={700}/>
             <Social />
             <p className="themes">
