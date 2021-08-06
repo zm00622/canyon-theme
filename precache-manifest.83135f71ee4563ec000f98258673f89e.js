@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcaf9282f6f5919b6c3229af983cb0bb",
+    "revision": "f77eebae53c1fba208f1493d91ff562d",
     "url": "/canyon-theme/index.html"
   },
   {
-    "revision": "3c1a71e2405f7a354ef7",
-    "url": "/canyon-theme/static/css/main.de4c6115.chunk.css"
+    "revision": "126c634b56b294986c88",
+    "url": "/canyon-theme/static/css/main.d5a09f00.chunk.css"
   },
   {
     "revision": "994da1ce093b58ec4ac4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/canyon-theme/static/js/2.e951fac7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c1a71e2405f7a354ef7",
-    "url": "/canyon-theme/static/js/main.da2aaae0.chunk.js"
+    "revision": "126c634b56b294986c88",
+    "url": "/canyon-theme/static/js/main.a655c206.chunk.js"
   },
   {
     "revision": "ff6cc93bb0d30cd63b62",
