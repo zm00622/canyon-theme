@@ -18,12 +18,13 @@ class Skills extends Component {
                 return <p><center>{value}</center></p>
             })}
             </p>
-            <h1 className="subtopic">My Projects</h1>
+            <h1 className="subtopic">My Work</h1>
             {/*<p className="projects"><a href="https://zarymanning.com/" target="_blank">Alternative Portfolio (WordPress)</a></p>*/}
             <p className="projects"><a href="https://zm00622.github.io/stock-tracker/" target="_blank" rel="noopener noreferrer">React Stock Market App (Utilizing API)</a></p>
             <p className="projects"><a href="https://zm00622.github.io/bookapp/" target="_blank" rel="noopener noreferrer">React Book Recommendation App</a></p>
             {/*<p className="projects"><a href="https://funhoot.com/" target="_blank">Things to Do Website (WordPress)</a></p> */}
-            <p className="projects"><a href="https://zm00622.github.io/react-challenges/" target="_blank" rel="noopener noreferrer">React Coding Challenges</a></p>
+            <p className="projects"><a href="https://www.instagram.com/zarysprogramming/?hl=en" target="_blank" rel="noopener noreferrer">More on Instagram</a></p>
+            <p className="projects"><a href="https://www.linkedin.com/in/zary-manning-4b8953198/" target="_blank" rel="noopener noreferrer">Follow me on LinkedIn</a></p>
             </div>
             )
         }
