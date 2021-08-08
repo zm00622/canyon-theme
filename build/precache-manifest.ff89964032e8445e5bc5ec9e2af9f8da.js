@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38b8f58de82734a4ef0ad25dd3a0bfcf",
+    "revision": "2392c6e34eaa4404581a0887b12a09b9",
     "url": "/canyon-theme/index.html"
   },
   {
-    "revision": "f5dcd8bd8606baab46c4",
-    "url": "/canyon-theme/static/css/main.de4c6115.chunk.css"
+    "revision": "aa824a34d748fb87a63c",
+    "url": "/canyon-theme/static/css/main.46177d82.chunk.css"
   },
   {
     "revision": "994da1ce093b58ec4ac4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/canyon-theme/static/js/2.e951fac7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5dcd8bd8606baab46c4",
-    "url": "/canyon-theme/static/js/main.117e62be.chunk.js"
+    "revision": "aa824a34d748fb87a63c",
+    "url": "/canyon-theme/static/js/main.d106eb85.chunk.js"
   },
   {
     "revision": "ff6cc93bb0d30cd63b62",
@@ -30,5 +30,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "606f54f5da0c1430a8a70fb7f3563d51",
     "url": "/canyon-theme/static/media/canyon.606f54f5.png"
+  },
+  {
+    "revision": "af4698da85167d56e782058ea1d08861",
+    "url": "/canyon-theme/static/media/canyon2.af4698da.png"
   }
 ]);

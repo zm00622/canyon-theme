@@ -100,7 +100,7 @@ a {
 /*Background*/
 
 @keyframes changeBg {
-  0%,100%  {background-image: url("./img/canyon.png");}
+  0%, 100%  {background-image: url("./img/canyon.png");}
   25% {background-image: url("./img/canyon2.png");}
   50% {background-image: url("./img/canyon.png");}
   75% {background-image: url("./img/canyon2.png");}
@@ -113,7 +113,7 @@ a {
   background-image: url('./img/canyon.png');
   background-repeat: no-repeat;
   background-size: cover;
-  animation: changeBg 80s infinite;
+  animation: changeBg 80s infinite; /* 80 seconds */
 }
 /* Home page */
 .col-home {
