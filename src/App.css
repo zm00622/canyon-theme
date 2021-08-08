@@ -82,6 +82,7 @@ a {
   margin-bottom: 30px;
   font-size: 25px;
   box-shadow: 0px 10px 25px black;
+  text-align: center;
   /* Glassmorphism */
   backdrop-filter: blur(5px) saturate(172%);
   -webkit-backdrop-filter: blur(5px) saturate(172%);
@@ -97,6 +98,14 @@ a {
 
 /* For 13 inch Desktop: */
 /*Background*/
+
+@keyframes changeBg {
+  0%,100%  {background-image: url("./img/canyon.png");}
+  25% {background-image: url("./img/canyon2.png");}
+  50% {background-image: url("./img/canyon.png");}
+  75% {background-image: url("./img/canyon2.png");}
+}
+
 .App {
   display: flex;
   width: 100%;
@@ -104,8 +113,8 @@ a {
   background-image: url('./img/canyon.png');
   background-repeat: no-repeat;
   background-size: cover;
+  animation: changeBg 80s infinite;
 }
-
 /* Home page */
 .col-home {
   display: flex;
@@ -127,6 +136,8 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   overflow: scroll;
+  backdrop-filter: blur(5px) saturate(172%);
+  border: 1px solid rgba(209, 213, 219, 0.3);
 }
 
 .col-nav ul {
@@ -183,13 +194,27 @@ a {
   color: white;
 }
 
+@keyframes pulse {
+	0% {
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+	}
+
+	70% {
+		box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+	}
+}
+
 .profilepic {
   margin-top: 5%;
   border-radius: 50%;
-  border: solid grey;
+  border: 2px solid rgba(209, 213, 219, 0.3);
   width: 350px;
+  animation: pulse 2s infinite;
 }
-
 
 /* Mobile Devices - iPads & Tablets (Styled specifically for iPad Pro)*/
 @media only screen and (max-width: 1024px){
@@ -783,3 +808,23 @@ a {
 .active {
   font-weight: bolder;
 }
+
+
+
+/* Make the border pulse */
+
+/* @keyframes border-pulsate {
+  0%   { 
+    border-color: rgb(0, 0, 0); 
+  }
+  50%  { 
+    border-color: rgba(0, 255, 255, 0); 
+  }
+  100% { 
+    border-color: rgb(0, 0, 0); 
+  }
+} */
+
+/* Add this property to the element:
+
+animation: border-pulsate 2s infinite */
