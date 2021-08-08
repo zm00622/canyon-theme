@@ -7,7 +7,7 @@ class About extends Component {
             <div className="col-home"> 
             <h1 className="subtopic">About Me</h1>
             <p className="about"><center>
-            <h4>Hey there,</h4>
+            <h4>Hi there,</h4>
             <h1>I am Zary G. Manning</h1>
             <h3>Front End Web <u>Developer</u> | UI/UX <u>Designer</u></h3>
             </center></p>
@@ -19,7 +19,7 @@ class About extends Component {
             <br></br>
             Reading about new technologies, 
             solving once impossible problems, 
-            providing value to a company, 
+            providing value, 
             these are the things that fuel my desire for personal growth.
             <br></br>
             <br></br>
