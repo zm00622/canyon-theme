@@ -9,10 +9,10 @@ class Home extends Component {
     render() {
         return (
             <div className="col-home">
-            <img src={profilepic} className="profilepic"></img>
+            <img src={profilepic} alt="" className="profilepic"></img>
             <ReactTypingEffect className="typingeffect" text={['I am Zary Manning','Your next web developer!']} speed={100} eraseDelay={700}/>
             <Social />
-            <p className="themes">
+            {/* <p className="themes">
                 <a href="https://zm00622.github.io/creative-theme/">| Default Creative Theme |</a>
                 <a href="https://zm00622.github.io/canyon-theme/"> Canyon Theme |</a>
                 <a href="https://zm00622.github.io/cartoon-theme/"> Cartoon Theme |</a>
@@ -20,7 +20,7 @@ class Home extends Component {
                 <a href="https://zm00622.github.io/lightstream-theme/"> Lightstream Theme |</a>
                 <a href="https://zm00622.github.io/dark-green-theme/"> Dark Green Theme |</a>
                 <a href="https://zm00622.github.io/geometric-theme/"> Geometric Theme |</a>
-            </p>
+            </p> */}
             </div>
             )
         }
