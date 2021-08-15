@@ -10,6 +10,7 @@
     "react": "^16.12.0",
     "react-animated-3d-card": "^1.0.2",
     "react-dom": "^16.12.0",
+    "react-icons": "^4.2.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
     "react-typing-effect": "^2.0.3"
