@@ -7,6 +7,7 @@ import AdIMG from "../img/advertisment.png";
 import CourseIMG from "../img/onlineCourse.png";
 import BannerIMG from "../img/websiteBanner.png";
 import ThisSiteIMG from "../img/thisSite.png";
+import LessonsIMG from "../img/lessons.png";
 
 class Skills extends Component {
     constructor(props)
@@ -34,6 +35,10 @@ class Skills extends Component {
             {/* UI for Freelance Client */}
             <p className="projects">UI for Freelance Client</p>
             <img src={LoginIMG} className="projectIMG"></img>
+
+            {/* Community Outreach */}
+            <p className="projects">Community Outreach</p>
+            <img src={LessonsIMG} className="projectIMG"></img>
 
             {/* Advertisement Video for Freelance Client */}
             <p className="projects"><a href="https://youtu.be/iQWJKVKLKF4" target="_blank" rel="noopener noreferrer">Advertisement for Freelance Client</a></p>
