@@ -7,7 +7,7 @@ import About from './contents/About';
 import Education from './contents/Education';
 import Skills from './contents/Skills';
 import Contact from './contents/Contact';
-import Gallery from './contents/Gallery';
+// import Gallery from './contents/Gallery';
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
         <Route path="/about" component={About} />
         <Route path="/education" component={Education} />
         <Route path="/skills" component={Skills} />
-        <Route path="/gallery" component={Gallery} />
+        {/* <Route path="/gallery" component={Gallery} /> */}
         <Route path="/contact" component={Contact} /> 
       </Switch>      
     </div>

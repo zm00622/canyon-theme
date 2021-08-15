@@ -4,6 +4,16 @@
   box-sizing: border-box;
 }
 
+  .projectIMG {
+  max-width: 95%;
+  height: auto;
+  margin-top: 4px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  border-radius: 5px !important;
+  }
+
+
 .row::after {
   content: "";
   clear: both;
