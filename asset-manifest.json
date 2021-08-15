@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/canyon-theme/static/css/main.08e83db1.chunk.css",
-    "main.js": "/canyon-theme/static/js/main.a210df77.chunk.js",
-    "main.js.map": "/canyon-theme/static/js/main.a210df77.chunk.js.map",
+    "main.js": "/canyon-theme/static/js/main.1769e8fd.chunk.js",
+    "main.js.map": "/canyon-theme/static/js/main.1769e8fd.chunk.js.map",
     "runtime-main.js": "/canyon-theme/static/js/runtime-main.92234e36.js",
     "runtime-main.js.map": "/canyon-theme/static/js/runtime-main.92234e36.js.map",
-    "static/js/2.f96aa858.chunk.js": "/canyon-theme/static/js/2.f96aa858.chunk.js",
-    "static/js/2.f96aa858.chunk.js.map": "/canyon-theme/static/js/2.f96aa858.chunk.js.map",
+    "static/js/2.e7361b4b.chunk.js": "/canyon-theme/static/js/2.e7361b4b.chunk.js",
+    "static/js/2.e7361b4b.chunk.js.map": "/canyon-theme/static/js/2.e7361b4b.chunk.js.map",
     "index.html": "/canyon-theme/index.html",
-    "precache-manifest.dffec84e8fc15d82963de979ddd6e477.js": "/canyon-theme/precache-manifest.dffec84e8fc15d82963de979ddd6e477.js",
+    "precache-manifest.eea3ca430c0ac7d88a3fab72c4f39578.js": "/canyon-theme/precache-manifest.eea3ca430c0ac7d88a3fab72c4f39578.js",
     "service-worker.js": "/canyon-theme/service-worker.js",
     "static/css/main.08e83db1.chunk.css.map": "/canyon-theme/static/css/main.08e83db1.chunk.css.map",
-    "static/js/2.f96aa858.chunk.js.LICENSE.txt": "/canyon-theme/static/js/2.f96aa858.chunk.js.LICENSE.txt",
+    "static/js/2.e7361b4b.chunk.js.LICENSE.txt": "/canyon-theme/static/js/2.e7361b4b.chunk.js.LICENSE.txt",
     "static/media/MyPic.jpg": "/canyon-theme/static/media/MyPic.188fbd6a.jpg",
     "static/media/ToDoList.png": "/canyon-theme/static/media/ToDoList.a28873e7.png",
     "static/media/advertisment.png": "/canyon-theme/static/media/advertisment.a7114051.png",
     "static/media/bookApp.png": "/canyon-theme/static/media/bookApp.8ddbef55.png",
     "static/media/App.css": "/canyon-theme/static/media/canyon2.af4698da.png",
+    "static/media/lessons.png": "/canyon-theme/static/media/lessons.7bd7dadd.png",
     "static/media/login.png": "/canyon-theme/static/media/login.b96b71b2.png",
     "static/media/onlineCourse.png": "/canyon-theme/static/media/onlineCourse.ad756610.png",
     "static/media/stockApp.png": "/canyon-theme/static/media/stockApp.6eb874d2.png",
@@ -25,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.92234e36.js",
-    "static/js/2.f96aa858.chunk.js",
+    "static/js/2.e7361b4b.chunk.js",
     "static/css/main.08e83db1.chunk.css",
-    "static/js/main.a210df77.chunk.js"
+    "static/js/main.1769e8fd.chunk.js"
   ]
 }
